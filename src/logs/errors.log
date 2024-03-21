@@ -1,0 +1,8 @@
+production [error] This is an error log
+production [debug] This is a fatal log
+production [error] This is an error log
+production [debug] This is a fatal log
+production [error] This is an error ❌ log
+production [debug] This is a fatal 🆘 log
+production [error] This is an error ❌ log
+production [debug] This is a fatal 🆘 log
